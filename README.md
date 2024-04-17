@@ -1,4 +1,5 @@
 # chocBoard
+# THIS REPO DEPRICATED, SEE [compression 4c](https://github.com/compressionKeyboards/compression4c)
 PCB, ergogen, kicad files for chocBoard wireless split ergo keyboard
 ## [Learn more on my website](https://www.hermanoff.dev/content/chocBoard)
 ![picture of chocboard](https://github.com/xpsKING/portfolio/blob/master/src/Content/markdown/images/chocBoardCover.jpeg?raw=true)
